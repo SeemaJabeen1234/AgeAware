@@ -2,7 +2,6 @@
 
 A production-grade React Native CLI mobile application that uses AI-powered face recognition and age estimation to automatically enforce age-appropriate screen time limits for children, teens, and adults.
 
-![Age-Aware Banner](./docs/banner.png)
 
 ## 📱 Features
 
@@ -174,10 +173,6 @@ uvicorn app:app --host 0.0.0.0 --port 8000
 - Additional parental controls (app-specific restrictions)
 - Gamification of healthy screen time habits
 - iOS version with equivalent functionality
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Credits
 
